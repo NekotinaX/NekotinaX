@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aleksandar-ivanov-7b7557343/](https://www.linkedin.com/in/aleksandar-ivanov-7b7557343/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
