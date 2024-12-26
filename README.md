@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **e-commerce**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NekotinaX](https://github.com/NekotinaX)
+- 👨‍💻 All of my projects are available at [https://github.com/NekotinaX](GitHub/NekotinaX)
 
 - 📫 How to reach me **aleksandar.ivanov@fixarhost.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aleksandar-ivanov-7b7557343/](https://www.linkedin.com/in/aleksandar-ivanov-7b7557343/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/aleksandar-ivanov08/](Linkedin/aleksandar-ivanov08)
 
 <p align="left">
 </p>
